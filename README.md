@@ -1,3 +1,10 @@
+## 🙋‍♂️ About Me
+
+Hi! I’m Mohit. I built this Terminal Pathfinding Visualizer as part of my journey into C++ development and algorithmic problem-solving. This project helped me explore core concepts like graph traversal, heuristics, and real-time visualization in a terminal environment.
+
+Feel free to fork, use, or suggest improvements — feedback is always welcome!
+
+
 # Terminal Pathfinding Visualizer (C++)
 
 This project is a terminal-based pathfinding visualizer implemented in C++. It allows users to input a grid, designate start and end points, add obstacles, and visualize the traversal of three popular pathfinding algorithms.
