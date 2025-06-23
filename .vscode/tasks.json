@@ -1,0 +1,22 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build & Run BFS Pathfinder",
+      "type": "shell",
+      "command": "bash",
+      "args": [
+        "-c",
+        "/c/msys64/ucrt64/bin/g++.exe bfspathfinder.cpp -o bfspathfinder && ./bfspathfinder"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    }
+  ]
+}
